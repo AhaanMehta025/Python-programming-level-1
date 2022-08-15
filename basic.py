@@ -14,10 +14,10 @@
 # print(10%3)
 
 #------loop -----------
-for i in range(10):
-    if i==5:
-        continue
-    print(i)
+# for i in range(10):
+#     if i==5:
+#         continue
+#     print(i)
 
 # j = 1
 # while j<11 :
@@ -25,3 +25,10 @@ for i in range(10):
 #         continue
 #     print(j)
 #     j+=1
+
+#--------------module_-----------------
+import math
+
+
+# from random import randint
+# print(randint(1,10))
